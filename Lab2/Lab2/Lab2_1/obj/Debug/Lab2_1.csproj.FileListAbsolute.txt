@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab2\Lab2\Lab2_1\bin\Debug\Lab2_1.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab2\Lab2\Lab2_1\bin\Debug\Lab2_1.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab2\Lab2\Lab2_1\bin\Debug\Lab2_1.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab2\Lab2\Lab2_1\obj\Debug\Lab2_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab2\Lab2\Lab2_1\obj\Debug\Lab2_1.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab2\Lab2\Lab2_1\obj\Debug\Lab2_1.pdb

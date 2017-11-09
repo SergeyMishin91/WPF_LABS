@@ -1,0 +1,45 @@
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.dll
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.pdb
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.g.cs
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame_MarkupCompile.cache
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame_MarkupCompile.lref
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.baml
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.g.resources
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.Properties.Resources.resources
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csproj.GenerateResource.Cache
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.dll
+C:\Users\VM621\Desktop\SVPP_2017\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.pdb
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.dll
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.pdb
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.g.cs
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame_MarkupCompile.cache
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame_MarkupCompile.lref
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.baml
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.g.resources
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.Properties.Resources.resources
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csproj.GenerateResource.Cache
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.dll
+C:\Users\Pavel\My\Lek_30_05\Lek_30_05\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.pdb
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.dll
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.pdb
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csprojResolveAssemblyReference.cache
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.g.cs
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame_MarkupCompile.cache
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.baml
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.g.resources
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.Properties.Resources.resources
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csproj.GenerateResource.Cache
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.dll
+e:\Обучение\переподготовка\ч.3\СВПП\WPF 6 лекция\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csprojResolveAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.baml
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\UserControl1.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame_MarkupCompile.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.g.resources
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.Properties.Resources.resources
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.csproj.GenerateResource.Cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\obj\Debug\WpfControlLibraryGame.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab5_1\WpfApp4\WpfControlLibraryGame\bin\Debug\WpfControlLibraryGame.pdb

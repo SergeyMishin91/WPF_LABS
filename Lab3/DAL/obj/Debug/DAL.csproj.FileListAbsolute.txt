@@ -1,0 +1,18 @@
+R:\Visual Studio\Projects\WpfApplication4\DAL\bin\Debug\DAL.dll
+R:\Visual Studio\Projects\WpfApplication4\DAL\bin\Debug\DAL.pdb
+R:\Visual Studio\Projects\WpfApplication4\DAL\bin\Debug\Model.dll
+R:\Visual Studio\Projects\WpfApplication4\DAL\bin\Debug\Repository.dll
+R:\Visual Studio\Projects\WpfApplication4\DAL\bin\Debug\Model.pdb
+R:\Visual Studio\Projects\WpfApplication4\DAL\bin\Debug\Repository.pdb
+R:\Visual Studio\Projects\WpfApplication4\DAL\obj\Debug\ResolveAssemblyReference.cache
+R:\Visual Studio\Projects\WpfApplication4\DAL\obj\Debug\DAL.dll
+R:\Visual Studio\Projects\WpfApplication4\DAL\obj\Debug\DAL.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\bin\Debug\DAL.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\bin\Debug\DAL.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\bin\Debug\Model.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\bin\Debug\Repository.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\bin\Debug\Model.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\bin\Debug\Repository.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\obj\Debug\DAL.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\DAL\obj\Debug\DAL.pdb

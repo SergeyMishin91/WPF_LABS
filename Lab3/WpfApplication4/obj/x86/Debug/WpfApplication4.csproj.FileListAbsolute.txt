@@ -1,0 +1,60 @@
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\DAL.dll
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\Model.dll
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\Repository.dll
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\DAL.pdb
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\Model.pdb
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\bin\Debug\Repository.pdb
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.g.cs
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+R:\Visual Studio\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+g:\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+g:\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+g:\WpfApplication4\WpfApplication4\bin\Debug\DAL.dll
+g:\WpfApplication4\WpfApplication4\bin\Debug\Model.dll
+g:\WpfApplication4\WpfApplication4\bin\Debug\Repository.dll
+g:\WpfApplication4\WpfApplication4\bin\Debug\DAL.pdb
+g:\WpfApplication4\WpfApplication4\bin\Debug\Model.pdb
+g:\WpfApplication4\WpfApplication4\bin\Debug\Repository.pdb
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.g.cs
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csproj.GenerateResource.Cache
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+g:\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\DAL.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\Model.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\Repository.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\DAL.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\Model.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\bin\Debug\Repository.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\MainWindow.baml
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\MainWindow.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\App.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WindowAddDoctor.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WindowAddDoctor.baml
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WindowError.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\WpfApplication4\obj\x86\Debug\WindowError.baml

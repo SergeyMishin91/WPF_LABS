@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\3 курс\WPF+WinF\Lab1\Lab1_WF\bin\Debug\Lab1_WF.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\3 курс\WPF+WinF\Lab1\Lab1_WF\bin\Debug\Lab1_WF.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\3 курс\WPF+WinF\Lab1\Lab1_WF\bin\Debug\Lab1_WF.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\3 курс\WPF+WinF\Lab1\Lab1_WF\obj\Debug\Lab1_WF.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\3 курс\WPF+WinF\Lab1\Lab1_WF\obj\Debug\Lab1_WF.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\3 курс\WPF+WinF\Lab1\Lab1_WF\obj\Debug\Lab1_WF.pdb

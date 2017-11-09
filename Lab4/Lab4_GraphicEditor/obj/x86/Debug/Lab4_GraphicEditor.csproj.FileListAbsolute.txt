@@ -1,0 +1,36 @@
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\bin\Debug\Lab4_GraphicEditor.exe
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\bin\Debug\Lab4_GraphicEditor.pdb
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\MainWindow.baml
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\MainWindow.g.cs
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\App.g.cs
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor_MarkupCompile.cache
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.g.resources
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.Properties.Resources.resources
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.exe
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.pdb
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\CrossControl.baml
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\CrossControl.g.cs
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\SettingsWindow.baml
+R:\Visual Studio\Projects\Lab4_GraphicEditor\Lab4_GraphicEditor\obj\x86\Debug\SettingsWindow.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\bin\Debug\Lab4_GraphicEditor.exe
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\bin\Debug\Lab4_GraphicEditor.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.csprojResolveAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\CrossControl.baml
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\MainWindow.baml
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\SettingsWindow.baml
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\CrossControl.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\MainWindow.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\SettingsWindow.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\App.g.cs
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor_MarkupCompile.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.g.resources
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.Properties.Resources.resources
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.csproj.GenerateResource.Cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.exe
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\BlackSquare.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\Lab4_GraphicEditor_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab4\Lab4_GraphicEditor\obj\x86\Debug\BlackSquare.baml

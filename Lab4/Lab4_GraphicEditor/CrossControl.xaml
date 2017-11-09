@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Lab4_GraphicEditor.CrossControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="75" Height="75" Background="Transparent">
+    <Viewbox >
+        <Path Fill="Yellow" Stroke="Black" StrokeThickness="1" >
+            <Path.Data>
+                <GeometryGroup>
+                    <EllipseGeometry Center="75,75" RadiusX="75" RadiusY="75"/>
+                    <LineGeometry StartPoint="22,22" EndPoint="128,128"/>
+                    <LineGeometry StartPoint="128, 22" EndPoint="22, 128"/>
+                </GeometryGroup>
+            </Path.Data>
+        </Path>
+    </Viewbox>
+</UserControl>

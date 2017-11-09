@@ -1,0 +1,14 @@
+R:\Visual Studio\Projects\WpfApplication4\Repository\bin\Debug\Repository.dll
+R:\Visual Studio\Projects\WpfApplication4\Repository\bin\Debug\Repository.pdb
+R:\Visual Studio\Projects\WpfApplication4\Repository\bin\Debug\Model.dll
+R:\Visual Studio\Projects\WpfApplication4\Repository\bin\Debug\Model.pdb
+R:\Visual Studio\Projects\WpfApplication4\Repository\obj\Debug\ResolveAssemblyReference.cache
+R:\Visual Studio\Projects\WpfApplication4\Repository\obj\Debug\Repository.dll
+R:\Visual Studio\Projects\WpfApplication4\Repository\obj\Debug\Repository.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\bin\Debug\Repository.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\bin\Debug\Repository.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\bin\Debug\Model.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\bin\Debug\Model.pdb
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\obj\Debug\Repository.dll
+c:\Users\User\Documents\Visual Studio 2017\Projects\3 курс\WPF+WinF\Lab3\Repository\obj\Debug\Repository.pdb

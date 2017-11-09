@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="B7BA1A0D-8036-4ACC-A7F2-519EFE13036E" ModuleId="WpfApplication4" />
+  <Module PersistentId="88C688F4-DE46-413F-9A90-B33874C84261" ModuleId="Model" />
+  <Module PersistentId="ED9386EC-6C68-476F-90A3-C9EAC1C682FC" ModuleId="Repository" />
+  <Module PersistentId="81C07223-3098-4BA4-987E-26061F4553B4" ModuleId="DAL" />
+</Modules>
