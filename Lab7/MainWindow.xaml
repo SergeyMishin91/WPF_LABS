@@ -1,0 +1,29 @@
+﻿<Window x:Class="Lab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab7"
+        mc:Ignorable="d"
+        Title="Лаба7. Здравоохранение" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Button.Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <Button Name="btnFill" Click="btnFill_Click">Заполнить список</Button>
+            <Button Name="btnAdd" Click="btnAdd_Click">Добавить</Button>
+            <Button Name="btnEdit" Click="btnEdit_Click">Изменить</Button>
+            <Button Name="btnRemove" Click="btnRemove_Click">Удалить</Button>
+        </StackPanel>
+        <ListBox Name="lBox" Grid.Column="1" ItemsSource="{Binding}">
+        </ListBox>
+    </Grid>
+</Window>
